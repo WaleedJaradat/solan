@@ -562,16 +562,6 @@
             "decimals": 8,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/solana/assets/rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof/logo.png",
             "pairs": []
-        },
-        {
-            "chainId":101,
-            "address": "7hksvfhUFTSX36rjjxBQfcBjmQzfR5xCs7Yd9bmFjj4v",
-            "type": "SPL",
-            "name": "MYM",
-            "symbol": "MYM",
-            "decimals": 9,
-            "logoURI": "https://raw.githubusercontent.com/WaleedJaradat/so/main/logo.png?token=GHSAT0AAAAAACQW7LEF2VSWXARFRFAD57D6ZQYJLZQ",
-            "pairs": []
         }
     ],
     "version": {
